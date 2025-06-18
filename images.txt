@@ -13,7 +13,8 @@
 #thingsboard/tb-coap-transport:3.6.4
 #thingsboard/tb-lwm2m-transport:3.6.4
 #thingsboard/tb-snmp-transport:3.6.4
-thingsboard/haproxy-certbot:2.2.31-alpine3.18
+thingsboard/tb-vc-executor
+#thingsboard/haproxy-certbot:2.2.31-alpine3.18
 
 #bitnami/kafka:3.2.0
 #zookeeper:3.8.0
