@@ -22,7 +22,7 @@
 #postgres:15
 #cassandra:4.0.4
 #bitnami/redis:7.0
-node:22.15.1
+#node:22.15.1
 
 #ThingPanel相关镜像
 #registry.cn-hangzhou.aliyuncs.com/thingspanel/thingspanel-go:v1.1.8
@@ -31,3 +31,4 @@ node:22.15.1
 #registry.cn-hangzhou.aliyuncs.com/thingspanel/modbus-protocol-plugin:v1.0.1
 #registry.cn-hangzhou.aliyuncs.com/thingspanel/timescaledb:14
 #registry.cn-hangzhou.aliyuncs.com/thingspanel/redis:6.2.7
+nacos/nacos-server:v2.3.0
