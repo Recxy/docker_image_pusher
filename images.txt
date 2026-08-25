@@ -32,4 +32,5 @@
 #registry.cn-hangzhou.aliyuncs.com/thingspanel/timescaledb:14
 #registry.cn-hangzhou.aliyuncs.com/thingspanel/redis:6.2.7
 #nacos/nacos-server:v2.3.0
-postgres:16
+#postgres:16
+minio/minio:RELEASE.2024-06-13T22-53-53Z
