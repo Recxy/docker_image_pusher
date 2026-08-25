@@ -35,4 +35,5 @@
 #postgres:16
 #minio/minio:RELEASE.2024-06-13T22-53-53Z
 #emqx/emqx:5.3.0
-redis:7.0
+#redis:7.0
+nginx:1.30.0
